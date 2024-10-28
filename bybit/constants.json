@@ -1,0 +1,21 @@
+{
+  "Time_Frame": 28800,
+  "Interval": 120,
+  "Backtest_Entry_Time": 6,
+  "Backtest_Entry_Increase": 0.008,
+  "Backtest_Exit_Increase": 0.004,
+  "Backtest_Exit_Decrease": 0.004,
+  "A_Win_Rate": [0.63, 0.875, 0.8571428571428571, 1],
+  "A_Trade_Times": [9, 8, 7, 4],
+  "B_Win_Rate": [0.37, 0.125, 0.14285714285714285, 0],
+  "B_Trade_Times": [9, 8, 7, 4],
+  "A_Win_Rate_Threshold": 15,
+  "B_Win_Rate_Threshold": 15,
+  "Initial_Capital": 1000,
+  "Trading_Fee": 0.0005,
+  "Primary_Hours": 480,
+  "Data_Keep_Hours": 720,
+  "Volume_Threshold": 10000,
+  "Backtest_Entry_Time_Wide": 46,
+  "Backtest_Entry_Start_Wide": 14
+}

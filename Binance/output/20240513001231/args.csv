@@ -1,0 +1,6 @@
+index,history_time,stop_loss,rising_rate_restriction,trailing_time,trailing_stop,slope_time,slope_rate
+0,57,0.078,0.14,10,0.056,3,0.16
+1,57,0.088,0.17,5,0.042,18,0.23
+2,27,0.069,0.2,14,0.096,6,0.3
+3,18,0.066,0.1,7,0.08,14,0.02
+4,72,0.062,0.1,15,0.086,14,0.11

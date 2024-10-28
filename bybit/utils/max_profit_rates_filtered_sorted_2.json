@@ -1,0 +1,452 @@
+{
+    "PIRATEUSDT": {
+        "Backtest_Entry_Increase": 0.023,
+        "Backtest_Exit_Increase": 0.0109,
+        "Backtest_Exit_Decrease": 0.0138,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 8.402655782841947,
+        "total_trades": 62
+    },
+    "AUDIOUSDT": {
+        "Backtest_Entry_Increase": 0.0156,
+        "Backtest_Exit_Increase": 0.0064,
+        "Backtest_Exit_Decrease": 0.0089,
+        "direction": "short",
+        "single_trade_capital": 80.0,
+        "profit_rate": 2.519915054870864,
+        "total_trades": 60
+    },
+    "1000RATSUSDT": {
+        "Backtest_Entry_Increase": 0.03,
+        "Backtest_Exit_Increase": 0.0138,
+        "Backtest_Exit_Decrease": 0.0173,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 1.8393529005587332,
+        "total_trades": 47
+    },
+    "MONUSDT": {
+        "Backtest_Entry_Increase": 0.0234,
+        "Backtest_Exit_Increase": 0.0103,
+        "Backtest_Exit_Decrease": 0.0129,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 1.623947427863364,
+        "total_trades": 56
+    },
+    "1000TURBOUSDT": {
+        "Backtest_Entry_Increase": 0.0396,
+        "Backtest_Exit_Increase": 0.0229,
+        "Backtest_Exit_Decrease": 0.0199,
+        "direction": "long",
+        "single_trade_capital": 100.0,
+        "profit_rate": 1.6133619527250356,
+        "total_trades": 51
+    },
+    "PONKEUSDT": {
+        "Backtest_Entry_Increase": 0.041,
+        "Backtest_Exit_Increase": 0.0175,
+        "Backtest_Exit_Decrease": 0.0198,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 1.1138277407117894,
+        "total_trades": 24
+    },
+    "OGUSDT": {
+        "Backtest_Entry_Increase": 0.0792,
+        "Backtest_Exit_Increase": 0.0471,
+        "Backtest_Exit_Decrease": 0.0359,
+        "direction": "long",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.8560615313893769,
+        "total_trades": 57
+    },
+    "POPCATUSDT": {
+        "Backtest_Entry_Increase": 0.0382,
+        "Backtest_Exit_Increase": 0.0161,
+        "Backtest_Exit_Decrease": 0.0212,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.8471453847300137,
+        "total_trades": 30
+    },
+    "AVAILUSDT": {
+        "Backtest_Entry_Increase": 0.0194,
+        "Backtest_Exit_Increase": 0.0092,
+        "Backtest_Exit_Decrease": 0.0116,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.8051134503786088,
+        "total_trades": 21
+    },
+    "ENAUSDT": {
+        "Backtest_Entry_Increase": 0.0296,
+        "Backtest_Exit_Increase": 0.0177,
+        "Backtest_Exit_Decrease": 0.0146,
+        "direction": "long",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.8048923619829502,
+        "total_trades": 56
+    },
+    "SCAUSDT": {
+        "Backtest_Entry_Increase": 0.0368,
+        "Backtest_Exit_Increase": 0.0164,
+        "Backtest_Exit_Decrease": 0.0215,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.8041650798317914,
+        "total_trades": 32
+    },
+    "L3USDT": {
+        "Backtest_Entry_Increase": 0.05,
+        "Backtest_Exit_Increase": 0.0226,
+        "Backtest_Exit_Decrease": 0.025,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.7391801115743164,
+        "total_trades": 13
+    },
+    "A8USDT": {
+        "Backtest_Entry_Increase": 0.0326,
+        "Backtest_Exit_Increase": 0.0153,
+        "Backtest_Exit_Decrease": 0.0189,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.7325191843847279,
+        "total_trades": 9
+    },
+    "UXLINKUSDT": {
+        "Backtest_Entry_Increase": 0.0154,
+        "Backtest_Exit_Increase": 0.0066,
+        "Backtest_Exit_Decrease": 0.0089,
+        "direction": "short",
+        "single_trade_capital": 80.0,
+        "profit_rate": 0.7152895035914262,
+        "total_trades": 90
+    },
+    "PHAUSDT": {
+        "Backtest_Entry_Increase": 0.0186,
+        "Backtest_Exit_Increase": 0.0075,
+        "Backtest_Exit_Decrease": 0.011,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.6894786464946046,
+        "total_trades": 28
+    },
+    "PENGUSDT": {
+        "Backtest_Entry_Increase": 0.0734,
+        "Backtest_Exit_Increase": 0.0393,
+        "Backtest_Exit_Decrease": 0.0322,
+        "direction": "long",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.6889622223236913,
+        "total_trades": 27
+    },
+    "ORNUSDT": {
+        "Backtest_Entry_Increase": 0.0396,
+        "Backtest_Exit_Increase": 0.0229,
+        "Backtest_Exit_Decrease": 0.0199,
+        "direction": "long",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.6533437479084341,
+        "total_trades": 33
+    },
+    "CLOUDUSDT": {
+        "Backtest_Entry_Increase": 0.0248,
+        "Backtest_Exit_Increase": 0.0147,
+        "Backtest_Exit_Decrease": 0.0101,
+        "direction": "long",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.6449336251854001,
+        "total_trades": 9
+    },
+    "EDUUSDT": {
+        "Backtest_Entry_Increase": 0.0196,
+        "Backtest_Exit_Increase": 0.0081,
+        "Backtest_Exit_Decrease": 0.0115,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.6290000473474646,
+        "total_trades": 19
+    },
+    "SNTUSDT": {
+        "Backtest_Entry_Increase": 0.0474,
+        "Backtest_Exit_Increase": 0.0208,
+        "Backtest_Exit_Decrease": 0.0274,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.5779743044868946,
+        "total_trades": 12
+    },
+    "1000APUUSDT": {
+        "Backtest_Entry_Increase": 0.08,
+        "Backtest_Exit_Increase": 0.037,
+        "Backtest_Exit_Decrease": 0.0446,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.5120136662742398,
+        "total_trades": 12
+    },
+    "1000BEERUSDT": {
+        "Backtest_Entry_Increase": 0.0296,
+        "Backtest_Exit_Increase": 0.0177,
+        "Backtest_Exit_Decrease": 0.0146,
+        "direction": "long",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.5081553767565192,
+        "total_trades": 42
+    },
+    "RADUSDT": {
+        "Backtest_Entry_Increase": 0.0258,
+        "Backtest_Exit_Increase": 0.0122,
+        "Backtest_Exit_Decrease": 0.0151,
+        "direction": "short",
+        "single_trade_capital": 80.0,
+        "profit_rate": 0.5049531305531691,
+        "total_trades": 38
+    },
+    "SHIB1000USDT": {
+        "Backtest_Entry_Increase": 0.0204,
+        "Backtest_Exit_Increase": 0.0082,
+        "Backtest_Exit_Decrease": 0.0108,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.5001629802061798,
+        "total_trades": 29
+    },
+    "MBOXUSDT": {
+        "Backtest_Entry_Increase": 0.0194,
+        "Backtest_Exit_Increase": 0.0092,
+        "Backtest_Exit_Decrease": 0.0116,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.48986464870693447,
+        "total_trades": 23
+    },
+    "PENDLEUSDT": {
+        "Backtest_Entry_Increase": 0.0326,
+        "Backtest_Exit_Increase": 0.0153,
+        "Backtest_Exit_Decrease": 0.0189,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.48377367518495973,
+        "total_trades": 6
+    },
+    "OSMOUSDT": {
+        "Backtest_Entry_Increase": 0.0204,
+        "Backtest_Exit_Increase": 0.0082,
+        "Backtest_Exit_Decrease": 0.0108,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.47665177890878474,
+        "total_trades": 8
+    },
+    "IOUSDT": {
+        "Backtest_Entry_Increase": 0.0234,
+        "Backtest_Exit_Increase": 0.0103,
+        "Backtest_Exit_Decrease": 0.0129,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.4629203961819093,
+        "total_trades": 56
+    },
+    "OMUSDT": {
+        "Backtest_Entry_Increase": 0.0282,
+        "Backtest_Exit_Increase": 0.0127,
+        "Backtest_Exit_Decrease": 0.0156,
+        "direction": "short",
+        "single_trade_capital": 80.0,
+        "profit_rate": 0.454770977230637,
+        "total_trades": 17
+    },
+    "MTLUSDT": {
+        "Backtest_Entry_Increase": 0.0194,
+        "Backtest_Exit_Increase": 0.0092,
+        "Backtest_Exit_Decrease": 0.0116,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.4057776175865546,
+        "total_trades": 12
+    },
+    "OMGUSDT": {
+        "Backtest_Entry_Increase": 0.0196,
+        "Backtest_Exit_Increase": 0.0081,
+        "Backtest_Exit_Decrease": 0.0115,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.3982279839567837,
+        "total_trades": 29
+    },
+    "BOBAUSDT": {
+        "Backtest_Entry_Increase": 0.0166,
+        "Backtest_Exit_Increase": 0.0068,
+        "Backtest_Exit_Decrease": 0.0098,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.3625354192010126,
+        "total_trades": 3
+    },
+    "FTMUSDT": {
+        "Backtest_Entry_Increase": 0.0396,
+        "Backtest_Exit_Increase": 0.0229,
+        "Backtest_Exit_Decrease": 0.0199,
+        "direction": "long",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.3521415500121121,
+        "total_trades": 7
+    },
+    "ALPACAUSDT": {
+        "Backtest_Entry_Increase": 0.0326,
+        "Backtest_Exit_Increase": 0.0153,
+        "Backtest_Exit_Decrease": 0.0189,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.34853944244705604,
+        "total_trades": 5
+    },
+    "AEROUSDT": {
+        "Backtest_Entry_Increase": 0.025,
+        "Backtest_Exit_Increase": 0.0126,
+        "Backtest_Exit_Decrease": 0.015,
+        "direction": "short",
+        "single_trade_capital": 80.0,
+        "profit_rate": 0.32420097078985965,
+        "total_trades": 22
+    },
+    "1000000MOGUSDT": {
+        "Backtest_Entry_Increase": 0.0644,
+        "Backtest_Exit_Increase": 0.0278,
+        "Backtest_Exit_Decrease": 0.0302,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.3236639214480628,
+        "total_trades": 6
+    },
+    "FTNUSDT": {
+        "Backtest_Entry_Increase": 0.0166,
+        "Backtest_Exit_Increase": 0.0068,
+        "Backtest_Exit_Decrease": 0.0098,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.3228300784927851,
+        "total_trades": 3
+    },
+    "LUNA2USDT": {
+        "Backtest_Entry_Increase": 0.0144,
+        "Backtest_Exit_Increase": 0.006,
+        "Backtest_Exit_Decrease": 0.0086,
+        "direction": "short",
+        "single_trade_capital": 60.0,
+        "profit_rate": 0.2917515437109359,
+        "total_trades": 47
+    },
+    "10000COQUSDT": {
+        "Backtest_Entry_Increase": 0.0352,
+        "Backtest_Exit_Increase": 0.0205,
+        "Backtest_Exit_Decrease": 0.0168,
+        "direction": "long",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.27227304174733313,
+        "total_trades": 10
+    },
+    "ARKMUSDT": {
+        "Backtest_Entry_Increase": 0.0544,
+        "Backtest_Exit_Increase": 0.0318,
+        "Backtest_Exit_Decrease": 0.0276,
+        "direction": "long",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.2720262836041374,
+        "total_trades": 6
+    },
+    "10000WENUSDT": {
+        "Backtest_Entry_Increase": 0.0642,
+        "Backtest_Exit_Increase": 0.031,
+        "Backtest_Exit_Decrease": 0.0383,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.26881531025827865,
+        "total_trades": 2
+    },
+    "1000XECUSDT": {
+        "Backtest_Entry_Increase": 0.0302,
+        "Backtest_Exit_Increase": 0.0181,
+        "Backtest_Exit_Decrease": 0.0141,
+        "direction": "long",
+        "single_trade_capital": 80.0,
+        "profit_rate": 0.2620031932864495,
+        "total_trades": 10
+    },
+    "XRPUSDT": {
+        "Backtest_Entry_Increase": 0.0124,
+        "Backtest_Exit_Increase": 0.005,
+        "Backtest_Exit_Decrease": 0.0073,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.2600816075456114,
+        "total_trades": 15
+    },
+    "CEEKUSDT": {
+        "Backtest_Entry_Increase": 0.0252,
+        "Backtest_Exit_Increase": 0.0107,
+        "Backtest_Exit_Decrease": 0.0131,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.2378061247831238,
+        "total_trades": 8
+    },
+    "GMTUSDT": {
+        "Backtest_Entry_Increase": 0.0226,
+        "Backtest_Exit_Increase": 0.0133,
+        "Backtest_Exit_Decrease": 0.0108,
+        "direction": "long",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.22307782307930757,
+        "total_trades": 6
+    },
+    "DATAUSDT": {
+        "Backtest_Entry_Increase": 0.023,
+        "Backtest_Exit_Increase": 0.0109,
+        "Backtest_Exit_Decrease": 0.0138,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.1755717260885068,
+        "total_trades": 3
+    },
+    "1INCHUSDT": {
+        "Backtest_Entry_Increase": 0.03,
+        "Backtest_Exit_Increase": 0.0138,
+        "Backtest_Exit_Decrease": 0.0173,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.12350700579754448,
+        "total_trades": 1
+    },
+    "ZKJUSDT": {
+        "Backtest_Entry_Increase": 0.0122,
+        "Backtest_Exit_Increase": 0.005,
+        "Backtest_Exit_Decrease": 0.0072,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 0.1183761215982777,
+        "total_trades": 1
+    },
+    "MATICUSDT": {
+        "Backtest_Entry_Increase": 0.0398,
+        "Backtest_Exit_Increase": 0.0201,
+        "Backtest_Exit_Decrease": 0.0168,
+        "direction": "long",
+        "single_trade_capital": 80.0,
+        "profit_rate": 0.0,
+        "total_trades": 0
+    },
+    "VGXUSDT": {
+        "Backtest_Entry_Increase": 0.0398,
+        "Backtest_Exit_Increase": 0.0201,
+        "Backtest_Exit_Decrease": 0.0168,
+        "direction": "long",
+        "single_trade_capital": 80.0,
+        "profit_rate": 0.0,
+        "total_trades": 0
+    }
+}

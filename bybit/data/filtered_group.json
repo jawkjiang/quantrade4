@@ -1,0 +1,74 @@
+{
+    "TOMIUSDT": {
+        "Backtest_Entry_Increase": 0.0152,
+        "Backtest_Exit_Increase": 0.0064,
+        "Backtest_Exit_Decrease": 0.0086,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 31.73882759453729,
+        "total_trades": 422
+    },
+    "A8USDT": {
+        "Backtest_Entry_Increase": 0.0124,
+        "Backtest_Exit_Increase": 0.005,
+        "Backtest_Exit_Decrease": 0.0073,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 5.7247765625847675,
+        "total_trades": 152
+    },
+    "PIXFIUSDT": {
+        "Backtest_Entry_Increase": 0.0198,
+        "Backtest_Exit_Increase": 0.0083,
+        "Backtest_Exit_Decrease": 0.0118,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 7.438600287967208,
+        "total_trades": 223
+    },
+    "LITUSDT": {
+        "Backtest_Entry_Increase": 0.0128,
+        "Backtest_Exit_Increase": 0.0052,
+        "Backtest_Exit_Decrease": 0.0076,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 1.0893339694545174,
+        "total_trades": 33
+    },
+    "CEEKUSDT": {
+        "Backtest_Entry_Increase": 0.012,
+        "Backtest_Exit_Increase": 0.005,
+        "Backtest_Exit_Decrease": 0.0072,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 3.984263652091511,
+        "total_trades": 46
+    },
+    "MOCAUSDT": {
+        "Backtest_Entry_Increase": 0.012,
+        "Backtest_Exit_Increase": 0.005,
+        "Backtest_Exit_Decrease": 0.0072,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 2.3368568949552793,
+        "total_trades": 63
+    },
+    "BONDUSDT": {
+        "Backtest_Entry_Increase": 0.012,
+        "Backtest_Exit_Increase": 0.0072,
+        "Backtest_Exit_Decrease": 0.0049,
+        "direction": "long",
+        "single_trade_capital": 100.0,
+        "profit_rate": 1.3327731220497299,
+        "total_trades": 99
+    },
+    "GFTUSDT": {
+        "Backtest_Entry_Increase": 0.0128,
+        "Backtest_Exit_Increase": 0.0052,
+        "Backtest_Exit_Decrease": 0.0076,
+        "direction": "short",
+        "single_trade_capital": 100.0,
+        "profit_rate": 2.538549572331485,
+        "total_trades": 66
+    }
+}
